@@ -1,0 +1,14 @@
+C:\Users\mathi\Documents\projets personel\le_black-jack\bin\Debug\le_black-jack.exe.config
+C:\Users\mathi\Documents\projets personel\le_black-jack\bin\Debug\le_black-jack.exe
+C:\Users\mathi\Documents\projets personel\le_black-jack\bin\Debug\le_black-jack.pdb
+C:\Users\mathi\Documents\projets personel\le_black-jack\obj\Debug\le_black-jack.csprojAssemblyReference.cache
+C:\Users\mathi\Documents\projets personel\le_black-jack\obj\Debug\le_black-jack.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\projets personel\le_black-jack\obj\Debug\le_black-jack.exe
+C:\Users\mathi\Documents\projets personel\le_black-jack\obj\Debug\le_black-jack.pdb
+E:\document\terminalapp\le_black-jack\bin\Debug\le_black-jack.exe.config
+E:\document\terminalapp\le_black-jack\bin\Debug\le_black-jack.exe
+E:\document\terminalapp\le_black-jack\bin\Debug\le_black-jack.pdb
+E:\document\terminalapp\le_black-jack\obj\Debug\le_black-jack.csprojAssemblyReference.cache
+E:\document\terminalapp\le_black-jack\obj\Debug\le_black-jack.csproj.CoreCompileInputs.cache
+E:\document\terminalapp\le_black-jack\obj\Debug\le_black-jack.exe
+E:\document\terminalapp\le_black-jack\obj\Debug\le_black-jack.pdb
